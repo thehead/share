@@ -1,0 +1,1 @@
+{"version":3,"sources":["defineProperty.js"],"names":[],"mappings":";;AAAA,IAAI,MAAM,EAAV;AACA,OAAO,cAAP,CAAsB,GAAtB,EAA2B,MAA3B,EAAmC;AAC/B,WAAO;AADwB,CAAnC;AAGA,QAAQ,GAAR,CAAY,IAAI,IAAhB","file":"defineProperty-compiled.js","sourcesContent":["let obj = {};\nObject.defineProperty(obj, 'test', {\n    value: '23'\n});\nconsole.log(obj.test);\n\n"]}
